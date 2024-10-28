@@ -20,7 +20,7 @@
   * [Vulnerability reporting](#vulnerability-reporting)
   * [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
-This landscape is intended as a map to explore open source projects in the AI & Data domains, highlights companies that are member of LF AI & Data, and also showcases members of the Foundation. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code. 
+This landscape is intended as a map to explore open source projects in the AI & Data domains, highlights companies that are member of LF AI & Data, and also showcases members of the Foundation. It is modeled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code. 
 
 ## Current Version
 
